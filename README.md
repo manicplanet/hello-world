@@ -1,2 +1,3 @@
 # hello-world
 Just my first repo on GH!
+I wonder how important GH will be to my new career in data analytics...
